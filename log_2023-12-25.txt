@@ -1,0 +1,147 @@
+18:41:29 - Log file created on 2023-12-25
+18:43:24 - Added 2 files to the queue
+18:43:24 - FileHandling object created with source C:\Users\maism\Documents\GitHub\CS261-342\PersonalAPIProject\Main\src\main\source and destination C:\Users\maism\Documents\GitHub\CS261-342\PersonalAPIProject\Main\src\main\destination
+18:43:24 - ConvertAPI secret set
+18:43:25 - File not converted
+18:44:52 - Log file created on 2023-12-25
+18:45:12 - Added 2 files to the queue
+18:45:12 - FileHandling object created with source src/main/source and destination src/main/destination
+18:45:12 - ConvertAPI secret set
+18:45:13 - File not converted
+18:45:13 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+18:48:4 - Log file created on 2023-12-25
+18:48:17 - Added 2 files to the queue
+18:48:17 - FileHandling object created with source src/main/source and destination src/main/destination
+18:48:17 - ConvertAPI secret set
+18:48:17 - File: sample1.heic converted
+18:54:1 - Log file created on 2023-12-25
+18:54:12 - Added 2 files to the queue
+18:54:12 - FileHandling object created with source src/main/source and destination src/main/destination
+18:54:12 - ConvertAPI secret set
+18:54:12 - File not converted
+18:54:12 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+18:58:45 - Log file created on 2023-12-25
+18:58:56 - Added 2 files to the queue
+18:58:56 - FileHandling object created with source src/main/source and destination src/main/destination
+18:58:56 - ConvertAPI secret set
+18:58:56 - File: sample1.heic sent for conversion
+18:58:56 - File not converted
+18:58:56 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+18:59:22 - Log file created on 2023-12-25
+18:59:32 - Added 2 files to the queue
+18:59:32 - FileHandling object created with source src/main/source and destination src/main/destination
+18:59:32 - ConvertAPI secret set
+18:59:32 - File: sample1.heic sent for conversion
+18:59:32 - File not converted
+18:59:32 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+19:2:0 - Log file created on 2023-12-25
+19:2:23 - Added 2 files to the queue
+19:2:23 - FileHandling object created with source src/main/source and destination src/main/destination
+19:2:23 - ConvertAPI secret set
+19:2:23 - File: sample1.heic sent for conversion
+19:2:24 - File not converted
+19:2:24 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+19:22:20 - Log file created on 2023-12-25
+19:22:30 - Added 2 files to the queue
+19:22:30 - FileHandling object created with source src/main/source and destination src/main/destination
+19:22:30 - ConvertAPI secret set
+19:22:30 - File: sample1.heic sent for conversion
+19:22:30 - File not converted
+19:22:30 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+19:26:32 - Log file created on 2023-12-25
+19:26:42 - Added 2 files to the queue
+19:26:42 - FileHandling object created with source src/main/source and destination src/main/destination
+19:26:42 - ConvertAPI secret set
+19:26:42 - File: sample1.heic sent for conversion
+19:26:43 - File not converted
+19:26:43 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+19:27:57 - Log file created on 2023-12-25
+19:28:6 - Added 2 files to the queue
+19:28:6 - FileHandling object created with source src/main/source and destination src/main/destination
+19:28:6 - ConvertAPI secret set
+19:28:6 - File: sample1.heic sent for conversion
+19:28:6 - File not converted
+19:28:6 - java.lang.RuntimeException: java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: okhttp3/internal/Util
+19:35:25 - Log file created on 2023-12-25
+19:35:36 - Added 2 files to the queue
+19:35:36 - FileHandling object created with source src/main/source and destination src/main/destination
+19:35:36 - ConvertAPI secret set
+19:35:36 - File: sample1.heic sent for conversion
+19:35:37 - File not converted
+19:35:37 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+19:36:26 - Log file created on 2023-12-25
+19:36:34 - Added 2 files to the queue
+19:36:34 - FileHandling object created with source src/main/source and destination src/main/destination
+19:36:34 - Starting conversion process
+19:36:34 - ConvertAPI secret set
+19:36:34 - File: sample1.heic sent for conversion
+19:36:35 - File not converted
+19:36:35 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+19:37:34 - Log file created on 2023-12-25
+19:37:46 - Added 2 files to the queue
+19:37:46 - FileHandling object created with source src/main/source and destination src/main/destination
+19:37:46 - Starting conversion process
+19:37:46 - File: sample1.heic sent for conversion
+19:37:47 - File not converted
+19:37:47 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+19:38:38 - Log file created on 2023-12-25
+19:38:48 - Added 2 files to the queue
+19:38:48 - FileHandling object created with source src/main/source and destination src/main/destination
+19:38:48 - Starting conversion process
+19:38:48 - File: sample1.heic sent for conversion
+19:38:49 - File: sample1.heic converted
+19:40:24 - Log file created on 2023-12-25
+19:40:33 - Added 2 files to the queue
+19:40:33 - FileHandling object created with source src/main/source and destination src/main/destination
+19:40:33 - Starting conversion process
+19:40:33 - File: sample1.heic sent for conversion
+19:40:35 - File: sample1.heic converted
+19:46:0 - Log file created on 2023-12-25
+19:46:13 - Added 2 files to the queue
+19:46:13 - FileHandling object created with source src/main/source and destination src/main/destination
+19:46:13 - Starting conversion process
+19:46:13 - File: sample1.heic sent for conversion
+19:46:13 - File not converted
+19:46:13 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+19:47:4 - Log file created on 2023-12-25
+19:47:10 - Added 2 files to the queue
+19:47:10 - FileHandling object created with source src/main/source and destination src/main/destination
+19:47:10 - Starting conversion process
+19:47:10 - ConvertAPI secret set
+19:47:10 - File: sample1.heic sent for conversion
+19:47:10 - File not converted
+19:47:10 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+19:49:52 - Log file created on 2023-12-25
+19:50:2 - Added 2 files to the queue
+19:50:2 - FileHandling object created with source src/main/source and destination src/main/destination
+19:50:2 - Starting conversion process
+19:50:2 - File: sample1.heic sent for conversion
+19:50:3 - File not converted
+19:50:3 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+20:10:0 - Log file created on 2023-12-25
+20:10:21 - Added 2 files to the queue
+20:10:21 - FileHandling object created with source src/main/source and destination src/main/destination
+20:10:21 - Starting conversion process
+20:10:21 - File: sample1.heic sent for conversion
+20:10:22 - File not converted
+20:10:22 - com.convertapi.client.ConversionException: {"Code":4013,"Message":"User credentials not set, secret or token must be passed."}
+20:13:41 - Log file created on 2023-12-25
+20:13:49 - Added 2 files to the queue
+20:13:49 - FileHandling object created with source src/main/source and destination src/main/destination
+20:13:49 - Starting conversion process
+20:13:49 - File: sample1.heic sent for conversion
+20:13:50 - File: sample1.heic converted
+20:14:42 - Log file created on 2023-12-25
+20:14:46 - Added 2 files to the queue
+20:14:46 - FileHandling object created with source src/main/source and destination src/main/destination
+20:14:46 - Starting conversion process
+20:14:46 - ConvertAPI secret set
+20:14:46 - File: sample1.heic sent for conversion
+20:14:48 - File: sample1.heic converted
+20:19:5 - Log file created on 2023-12-25
+20:19:8 - Added 2 files to the queue
+20:19:8 - FileHandling object created with source src/main/source and destination src/main/destination
+20:19:8 - Starting conversion process
+20:19:8 - ConvertAPI secret set
+20:19:8 - File: sample1.heic sent for conversion
+20:19:10 - File: sample1.heic converted

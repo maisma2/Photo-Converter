@@ -1,0 +1,21 @@
+Done:
+Work on Util > FIleHandling
+Work on Conversion Calling
+Work on API Util
+Work on Logger
+Work on Main to create a CLI, takes source and destination files and take in all .heic files
+
+
+Current: Work on ConvertAPI RESTful service
+
+Timeline:
+
+Work on Models > OAuthModels and ConvertAPIModel
+Work on OKHttpHandler
+Work on Oauth CLient then Server
+Work on Exceptions Handling for sensitive information
+Work on Conversion Calling
+
+Future:
+JavaFX to make it a better clicking application
+Handling a linux script to make this process automated
