@@ -8,6 +8,10 @@ import java.io.IOException;
 public class OAuthTokenCallback {
     private GoogleAuthorizationCodeFlow flow;
 
+    public OAuthTokenCallback(){
+        this.flow = null;
+    }
+
     public void OAuthCallbackHandler(GoogleAuthorizationCodeFlow flow) {
         this.flow = flow;
     }

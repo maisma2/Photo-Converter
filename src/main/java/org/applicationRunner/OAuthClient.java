@@ -3,6 +3,7 @@ package org.applicationRunner;
 import com.google.api.client.auth.oauth2.BrowserClientRequestUrl;
 import com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow;
 import com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets;
+import com.google.api.client.googleapis.auth.oauth2.GoogleTokenResponse;
 import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.gson.GsonFactory;
 import com.google.api.client.util.store.FileDataStoreFactory;
@@ -17,6 +18,9 @@ public class OAuthClient {
     private static final GsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
     private static final List<String> SCOPES = Collections.singletonList("https://www.googleapis.com/auth/photoslibrary");
     private static final String TOKENS_DIRECTORY_PATH = "tokens";
+
+    public OAuthClient() throws IOException {
+    }
 
     public static String getAuthorizationUrl() throws IOException {
         // Load client secrets
@@ -35,5 +39,7 @@ public class OAuthClient {
         return flow.newAuthorizationUrl().setRedirectUri(redirectUri).build();
     }
 
-    // Method to handle callback and exchange code for tokens will go here
+    //OAuthTokenCallback
+    OAuthTokenCallback tokenCallback = new OAuthTokenCallback();
+    GoogleTokenResponse token =  tokenCallback.exchangeCodeForTokens(getAuthorizationUrl());
 }
